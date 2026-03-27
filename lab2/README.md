@@ -188,26 +188,26 @@ INSERT INTO Friendship (user1_id, user2_id, status) VALUES
 Після виконання запитів за допомогою інструменту **pgAdmin 4**, перевірено наявність даних у таблицях.
 
 
-_![[Pasted image 20260327172518.png]]_
+_[](Pasted image 20260327172518.png)_
 **Рис. 1. Таблиця Player з доданими даними.**
 
 
 
-_![[Pasted image 20260327172804.png]]_
+_[](Pasted image 20260327172804.png)_
 **Рис. 2. Таблиця Game з доданими даними.**
 
 
 
-_![[Pasted image 20260327172831.png]]_
+_[](Pasted image 20260327172831.png)_
 **Рис. 3. Таблиця Move з доданими даними.**
 
 
-_![[Pasted image 20260327172908.png]]_
+_[](Pasted image 20260327172908.png)_
 **Рис. 4. Таблиця Time_control з доданими даними.**
 
 
-_![[Pasted image 20260327173106.png]]_
+_[](Pasted image 20260327173106.png)_
 **Рис. 5. Таблиця Tournament.**
 
-_![[Pasted image 20260327173220.png]]_
+_[](Pasted image 20260327173220.png)_
 **Рис. 6. Таблиця Friendship.**
