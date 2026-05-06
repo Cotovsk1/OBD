@@ -234,6 +234,7 @@ ALTER TABLE Friendship ADD CONSTRAINT chk_not_self_friend CHECK (user1_id <> use
 
 - **Головні зміни на схемі:** З'явився новий зв'язок `1:M` (Один до багатьох) від `Game_Result` до `Game`. У таблиці `Move` поля `game_id` та `move_number` тепер об'єднані в один первинний ключ.
     
+<img width="1960" height="797" alt="image" src="https://github.com/user-attachments/assets/4e07dcba-6ff9-4321-ba36-436f87ba667a" />
 
 
 
