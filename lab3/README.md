@@ -25,7 +25,7 @@
 ## Код-відповідних-OLTP-запитів-та-Результати-перевірки-роботи-запитів
 (даних було замало для виконання різних операцій, додаємо ще)
 
-```
+```sql
 -- Додавання нових гравців
 INSERT INTO Player (username, email, password_hash, rating) VALUES
 ('Stockfish_Lvl_1', 'bot1@chess-engine.local', 'bot_pass', 800),
