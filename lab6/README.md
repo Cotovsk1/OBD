@@ -161,6 +161,8 @@ model chat_message {
 <details>
   <summary>ER-діагрма після всіх операцій</summary>
   <img width="1193" height="748" alt="image" src="https://github.com/user-attachments/assets/3610c135-bcc3-43cf-a03e-dd3a8f01eec4" />
+  
+  до них були відповідні звязки між `tournament` і `game`
 </details>
 <details>
   <summary>Додані данні в нову таблицю</summary>
